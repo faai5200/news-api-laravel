@@ -115,7 +115,7 @@ Swagger has been integrated to automatically generate API documentation for easy
 To log in, send a `POST` request to `/api/login` with the following body:
 
 ```
-{
+{ 
 "email": "johndoe@example.com",
 "password": "yourpassword"
 }
